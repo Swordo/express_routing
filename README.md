@@ -1,4 +1,4 @@
-			Simple Express Routing example 
+			Simple Express Rauting example 
 
  
 npm install
